@@ -1,0 +1,12 @@
+<resources>
+    <!-- Fondo verde/teal -->
+    <color name="jr_teal_bg">#0BA59A</color>
+    <!-- Amarillo títulos -->
+    <color name="jr_yellow">#F5C543</color>
+    <!-- Azul botones -->
+    <color name="jr_blue">#2F54EB</color>
+    <color name="jr_blue_dark">#203EAE</color>
+    <!-- Textos -->
+    <color name="jr_white">#FFFFFF</color>
+    <color name="jr_black">#111111</color>
+</resources>
