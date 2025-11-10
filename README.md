@@ -153,7 +153,7 @@ flowchart TD
 
     C --> E[Pagos (simulada)]
 
-
+---
 
 ## 8. Evidencias y Entrega
 
