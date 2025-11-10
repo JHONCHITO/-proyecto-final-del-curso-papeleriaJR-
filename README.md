@@ -111,13 +111,17 @@ HU1 Ver categorías · HU2 Ver productos por categoría · HU3 Ver detalle · HU
 Detalle/Carrito → **Pagos** · Pagos (éxito/cancel) → **Confirmación** · Confirmación → **Catálogo**
 
 **Diagrama (Mermaid):**
-```mermaid
 flowchart TD
     A[Inicio / Categorías] --> B[Lista de productos]
+    
     B --> C[Detalle de producto]
+    
     C --> D[Carrito]
+    
     D --> E[Pagos]
+    
     E --> F[Confirmación]
+    
     F --> A
 
 8. Evidencias y Entrega
