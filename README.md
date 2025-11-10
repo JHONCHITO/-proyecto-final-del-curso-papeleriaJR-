@@ -129,6 +129,28 @@ HU15 Regresar desde pagos.
 ---
 
 
+## 7. Mockups y Transiciones
+
+**Estado actual del flujo (sin pasarela real):**  
+La app navega desde el catálogo hasta **Pagos**. El botón **“Pagar ahora”** funciona y dirige a **Pagos**, pero **no hay integración** con una plataforma (Stripe/PayU). La demo termina en **Pagos**.
+
+**Archivos (en `/docs/mockups/`):**  
+`01_home_categorias.png`, `02_lista_productos.png`, `03_detalle_producto.png`,  
+`04_carrito.png`, `05_pagos.png`
+
+### 🔁 Transiciones implementadas
+- **Inicio / Categorías → Lista de productos**  
+- **Lista → Detalle (ej. “Cuaderno Argollado”)**  
+- **Detalle → Pagos** (al presionar **“Pagar ahora”**)  
+
+### 🧭 Diagrama del flujo (estado actual)
+
+```mermaid
+flowchart TD
+    A[Inicio / Categorías] --> B[Lista de productos]
+    B --> C[Detalle de producto]
+    C --> E[Pagos (simulada)]
+
 
 ---
 
