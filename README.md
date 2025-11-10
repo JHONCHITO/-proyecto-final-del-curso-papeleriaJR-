@@ -128,6 +128,7 @@ HU15 Regresar desde pagos.
 
 ---
 
+~~~
 
 ## 7. Mockups y Transiciones
 
@@ -147,7 +148,7 @@ La app navega desde el catálogo hasta **Pagos**. El botón **“Pagar ahora”*
 
 ### 🧭 Diagrama del flujo (estado actual)
 
-~~~mermaid
+mermaid
 flowchart TD
     A[Inicio / Categorías] --> B[Lista de productos]
     B --> C[Detalle de producto]
