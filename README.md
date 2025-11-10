@@ -88,7 +88,9 @@ HU1 Ver categorías·
 
 HU2 Ver productos por categoría·
 
-HU3 Ver detalle · HU4 Agregar al carrito· 
+HU3 Ver detalle· 
+
+HU4 Agregar al carrito· 
 
 HU5 Ajustar cantidades · HU6 Ver total· 
 
