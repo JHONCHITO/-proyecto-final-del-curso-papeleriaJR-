@@ -127,7 +127,6 @@ HU15 Regresar desde pagos.
 **Flujo:** Catálogo → Detalle → Pagos → Confirmación
 
 ---
-
 ## 7. Mockups y Transiciones
 
 **Estado actual del flujo (sin pasarela real):**  
@@ -146,13 +145,9 @@ La aplicación navega desde el catálogo hasta la pantalla de **Pagos**. El bot�
 
 ```mermaid
 flowchart TD
-
     A[Inicio / Categorías] --> B[Lista de productos]
-
     B --> C[Detalle de producto]
-
     C --> E[Pagos (simulada)]
-
 ---
 
 ## 8. Evidencias y Entrega
