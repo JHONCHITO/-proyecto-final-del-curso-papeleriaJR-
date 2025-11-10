@@ -2,8 +2,11 @@
 # Papelería JR – Catálogo y Pagos
 
 **Autor:** Jhon Rique "Chito" Ruiz 
+
 **Id** 406620
+
 **Con Android Studio**
+
 **Base de datos:** Firebase Firestore
 
 ---
