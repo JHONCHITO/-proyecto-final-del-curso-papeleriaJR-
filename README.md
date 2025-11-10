@@ -1,7 +1,9 @@
 ﻿$md = @'
-# Papelería Jhon Chito – Catálogo y Pagos
+# Papelería JR – Catálogo y Pagos
 
-**Autor:** Jhon Rique "Chito" Ruiz  
+**Autor:** Jhon Rique "Chito" Ruiz 
+**Id** 406620
+**Con Android Studio**
 **Base de datos:** Firebase Firestore
 
 ---
