@@ -112,6 +112,7 @@ Detalle/Carrito → **Pagos** · Pagos (éxito/cancel) → **Confirmación** · 
 
 **Diagrama (Mermaid):**
 flowchart TD
+
     A[Inicio / Categorías] --> B[Lista de productos]
     
     B --> C[Detalle de producto]
