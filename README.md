@@ -145,12 +145,14 @@ La app navega desde el catálogo hasta **Pagos**. El botón **“Pagar ahora”*
 
 ### 🧭 Diagrama del flujo (estado actual)
 
-```mermaid
+### 🧭 Diagrama del flujo (estado actual)
+
+~~~mermaid
 flowchart TD
     A[Inicio / Categorías] --> B[Lista de productos]
     B --> C[Detalle de producto]
     C --> E[Pagos (simulada)]
-
+~~~
 
 ---
 
