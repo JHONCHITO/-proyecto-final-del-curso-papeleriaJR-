@@ -85,17 +85,29 @@ Flujo final: *Catálogo → Detalle → Carrito → Pagos → Confirmación*.
 ## 5. Historias de Usuario (resumen)
 
 HU1 Ver categorías· 
+
 HU2 Ver productos por categoría·
+
 HU3 Ver detalle · HU4 Agregar al carrito· 
+
 HU5 Ajustar cantidades · HU6 Ver total· 
+
 HU7 Pagar desde producto/carrito· 
+
 HU8 Confirmación éxito/error· 
+
 HU9 Admin CRUD productos· 
+
 HU10 Búsqueda por nombre· 
+
 HU11 Filtrar por disponibilidad·
+
 HU12 Imágenes nítidas·
+
 HU13 Persistencia del carrito· 
+
 HU14 Registrar pedido previo al pago· 
+
 HU15 Regresar desde pagos.
 
 ---
