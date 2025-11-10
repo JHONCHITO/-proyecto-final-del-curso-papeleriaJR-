@@ -125,28 +125,6 @@ flowchart TD
     
     F --> A
 
-8. Evidencias y Entrega
-
-Videos:
-
-Video 1 – Flujo completo: catálogo → detalle → carrito → pago → confirmación.
-Enlace: https://youtube.com/shorts/EIio8SajZkY?si=Ltyo2SsolEKjaKyo
-
-Video 2 – Base de datos Firebase (categorías e info):
-Enlace: https://youtube.com/shorts/VmxhvixqIlE?si=0djqtyibw1Wom1cM
-
-Imágenes del proyecto (Miro):
-
-https://miro.com/app/board/uXjVJslq8rE=/?moveToWidget=3458764647797484139&cot=14
-
-https://miro.com/app/board/uXjVJslq8rE=/?moveToWidget=3458764647797484126&cot=14
-
-https://miro.com/app/board/uXjVJslq8rE=/?moveToWidget=3458764647797484147&cot=14
-
-https://miro.com/app/board/uXjVJslq8rE=/?moveToWidget=3458764647797484164&cot=14
-
-https://miro.com/app/board/uXjVJslq8rE=/?moveToWidget=3458764647797484180&cot=14
-
 
 
 ## 8. Evidencias y Entrega
@@ -172,5 +150,7 @@ https://miro.com/app/board/uXjVJslq8rE=/?moveToWidget=3458764647797484180&cot=14
 - [Mockup 3](https://miro.com/app/board/uXjVJslq8rE=/?moveToWidget=3458764647797484147&cot=14)
 - [Mockup 4](https://miro.com/app/board/uXjVJslq8rE=/?moveToWidget=3458764647797484164&cot=14)
 - [Mockup 5](https://miro.com/app/board/uXjVslq8rE=/?moveToWidget=3458764647797484180&cot=14)
+- [Mockup 5](https://miro.com/app/board/uXjVJslq8rE=/?moveToWidget=3458764647809310349&cot=14)
+
 
 ---
