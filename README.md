@@ -141,7 +141,7 @@ La app navega desde el catálogo hasta **Pagos**. El botón **“Pagar ahora”*
 ### 🔁 Transiciones implementadas
 - **Inicio / Categorías → Lista de productos**  
 - **Lista → Detalle (ej. “Cuaderno Argollado”)**  
-- **Detalle → Pagos** (al presionar **“Pagar ahora”**)  
+- **Detalle → Pagos (al presionar “Pagar ahora”**)  
 
 ### 🧭 Diagrama del flujo (estado actual)
 
