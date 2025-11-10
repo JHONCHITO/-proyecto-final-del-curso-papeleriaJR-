@@ -68,7 +68,7 @@ Flujo final: *Catálogo → Detalle → Carrito → Pagos → Confirmación*.
 | Colección | Campos principales | Ejemplo |
 |---|---|---|
 | **categories** | `id`, `name`, `imageUrl` | `{ id: "cat-block", name: "block", imageUrl: "https://dcdn.mitiendanube.com/..." }` |
-| **productos** | `nombre`, `descripcion`, `precio`, `imagenUrl`, `disponible`, `categoriaId` | `{ nombre: "Cuaderno Norma", precio: 6900, categoriaId: "cat-cuadernos" }` |
+                 | `nombre`, `descripcion`, `precio`, `imagenUrl`, `disponible`, `categoriaId` | `{ nombre: "Cuaderno Norma", precio: 6900, categoriaId: "cat-cuadernos" }` |
 
 ---
 
@@ -84,7 +84,19 @@ Flujo final: *Catálogo → Detalle → Carrito → Pagos → Confirmación*.
 
 ## 5. Historias de Usuario (resumen)
 
-HU1 Ver categorías · HU2 Ver productos por categoría · HU3 Ver detalle · HU4 Agregar al carrito · HU5 Ajustar cantidades · HU6 Ver total · HU7 Pagar desde producto/carrito · HU8 Confirmación éxito/error · HU9 Admin CRUD productos · HU10 Búsqueda por nombre · HU11 Filtrar por disponibilidad · HU12 Imágenes nítidas · HU13 Persistencia del carrito · HU14 Registrar pedido previo al pago · HU15 Regresar desde pagos.
+HU1 Ver categorías· 
+HU2 Ver productos por categoría·
+HU3 Ver detalle · HU4 Agregar al carrito· 
+HU5 Ajustar cantidades · HU6 Ver total· 
+HU7 Pagar desde producto/carrito· 
+HU8 Confirmación éxito/error· 
+HU9 Admin CRUD productos· 
+HU10 Búsqueda por nombre· 
+HU11 Filtrar por disponibilidad·
+HU12 Imágenes nítidas·
+HU13 Persistencia del carrito· 
+HU14 Registrar pedido previo al pago· 
+HU15 Regresar desde pagos.
 
 ---
 
@@ -138,8 +150,6 @@ flowchart TD
 **Video 2 – Base de datos Firebase (categorías):**  
 [▶️ Ver en YouTube](https://youtube.com/shorts/VmxhvixqIlE?si=0djqtyibw1Wom1cM)  
 [![Video 2](https://img.youtube.com/vi/VmxhvixqIlE/hqdefault.jpg)](https://youtube.com/shorts/VmxhvixqIlE?si=0djqtyibw1Wom1cM)
-
-> *Nota:* GitHub no permite “incrustar” el reproductor, por eso usamos la miniatura que abre el video al hacer clic.
 
 ---
 
