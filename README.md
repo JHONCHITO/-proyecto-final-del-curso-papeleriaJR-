@@ -9,6 +9,14 @@
 
 **Base de datos:** Firebase Firestore
 
+
+## 🎥 Video demostrativo de PapeleriaJR
+
+Puedes descargar o reproducir el video desde el repositorio:
+
+[Descargar / ver video de demo](https://youtu.be/RTVA3ywqFdU?si=fTAD56ShPLY9WmLb)
+
+
 ---
 
 ## 1. Definición del problema
