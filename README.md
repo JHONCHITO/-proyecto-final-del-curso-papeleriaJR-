@@ -12,7 +12,7 @@
 
 ## 🎥 Video demostrativo de PapeleriaJR
 
-Puedes descargar o reproducir el video desde el repositorio:
+aqui demostramos como fuciona nuestra aplicacion y base de datos en firebase  y el diseño echo en miro todo bien estructurado y funcional 
 
 [Descargar / ver video de demo](https://youtu.be/RTVA3ywqFdU?si=fTAD56ShPLY9WmLb)
 
